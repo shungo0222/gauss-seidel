@@ -1,0 +1,1 @@
+# Solve simultaneous linear equations (ax=b) with gauss seidel
